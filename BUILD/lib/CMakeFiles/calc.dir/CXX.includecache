@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/calc.h
+
+/Users/junilkim/workspace2/Halo/src/calc.cpp
+calc.h
+/Users/junilkim/workspace2/Halo/src/calc.h
+iostream
+-
+

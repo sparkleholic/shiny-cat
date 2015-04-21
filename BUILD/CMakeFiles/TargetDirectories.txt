@@ -1,0 +1,4 @@
+/Users/junilkim/workspace2/Halo/BUILD/lib/CMakeFiles/calc.dir
+/Users/junilkim/workspace2/Halo/BUILD/lib/CMakeFiles/calcstatic.dir
+/Users/junilkim/workspace2/Halo/BUILD/src/CMakeFiles/hello.dir
+/Users/junilkim/workspace2/Halo/BUILD/test/CMakeFiles/hello-test.dir
