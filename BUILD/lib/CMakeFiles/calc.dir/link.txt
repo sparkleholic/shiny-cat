@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++11 -dynamiclib -Wl,-headerpad_max_install_names   -o libcalc.dylib -install_name /Users/junilkim/workspace2/Halo/BUILD/lib/libcalc.dylib CMakeFiles/calc.dir/__/src/calc.cpp.o 

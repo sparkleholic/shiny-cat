@@ -1,2 +1,0 @@
-/usr/bin/ar cr libcalcstatic.a  CMakeFiles/calcstatic.dir/__/src/calc.cpp.o
-/usr/bin/ranlib libcalcstatic.a

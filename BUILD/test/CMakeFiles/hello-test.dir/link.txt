@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/hello-test.dir/gtest-all.cc.o CMakeFiles/hello-test.dir/test_main.cpp.o CMakeFiles/hello-test.dir/calc_test.cpp.o  -o hello-test  -L/opt/local/lib -lglib-2.0 -lintl ../lib/libcalc.dylib -lpthread 
